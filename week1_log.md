@@ -25,6 +25,8 @@ We were told about a student who made a bracelet that could move and I really li
 
 <img width="300" height="500" alt="image" src="https://i.pinimg.com/1200x/4f/37/17/4f371709059cf66140fdfae89c98a4f7.jpg" />
 
+example of a small audio listening device in a makeup kit.
+
 
 
 
