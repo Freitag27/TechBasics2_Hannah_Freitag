@@ -3,5 +3,7 @@ My log for my Tech Basics Uni-course. It is a joural of my experiences and learn
 
 
 <img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/544aee78-d282-48ed-a2de-d6946728a6db" />
+
+
 source: https://randomvisualworld.tumblr.com/post/107708172244
 
